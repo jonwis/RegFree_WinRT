@@ -24,3 +24,4 @@ namespace winrt::WinRTComponent::implementation
     {
     }
 }
+

@@ -9,6 +9,9 @@
     <Reference Include="$(SolutionDir)WinRTComponent\bin\$(PlatformShortName)\$(Configuration)\WinRTComponent.winmd">
       <IsWinMDFile>true</IsWinMDFile>
     </Reference>
+    <Reference Include="$(SolutionDir)WinRTComponent\bin\$(PlatformShortName)\$(Configuration)\AnotherThing.winmd">
+      <IsWinMDFile>true</IsWinMDFile>
+    </Reference>
     <ReferenceCopyLocalPaths Include="$(SolutionDir)WinRTComponent\bin\$(PlatformShortName)\$(Configuration)\WinRTComponent.dll">
       <IsWinMDFile>false</IsWinMDFile>
     </ReferenceCopyLocalPaths>

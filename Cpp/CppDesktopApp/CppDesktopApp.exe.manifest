@@ -9,4 +9,11 @@
         xmlns="urn:schemas-microsoft-com:winrt.v1" />
   </file>
 
+  <file name="WinRTComponent.dll">
+    <activatableClass
+        name="AnotherThing.AnotherClass"
+        threadingModel="both"
+        xmlns="urn:schemas-microsoft-com:winrt.v1" />
+  </file>
+
 </assembly>

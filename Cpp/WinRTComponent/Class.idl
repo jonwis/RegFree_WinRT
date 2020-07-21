@@ -8,3 +8,13 @@ namespace WinRTComponent
         String MyProperty2;
     }
 }
+
+namespace AnotherThing
+{
+    [default_interface]
+    runtimeclass AnotherClass
+    {
+        AnotherClass();
+        String MyProperty{ get; };
+    }
+}
